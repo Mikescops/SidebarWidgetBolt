@@ -1,0 +1,10 @@
+widget: true
+
+caption: Bonjour à tous !
+
+# Put the contents here, in Markdown. Remember that you must clear the cache after
+# changing the text, otherwise you will see the olde one. 
+contents: > 
+  Message aux rédacteurs, n'utilisez pas de "MAJUSCULES" dans vos tags (sinon le système bug).
+  
+  <form name="myform" action="http://erupsis.com/cdn/TwERP/index.php" method="POST"><div align="center"><hr><br><input type="text" name="tweet" size="50" placeholder="Ton texte à tweeter ici..."><br><input class="btn btn-default" type="submit" value="Publier sur Twitter"><hr></div></form>
